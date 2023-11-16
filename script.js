@@ -4,7 +4,6 @@ const client = new Client({
 });
 const prefix = '!';
 
-// ... (rest of your code)
 
 
 client.on('ready', () => {
@@ -32,3 +31,5 @@ client.on('messageCreate', (message) => {
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
 client.login('mytoken');
 
+//If you'd like the script add-on to run this script using Uptime Robot, please DM me on Discord, user crimmycrim_ and I'll 
+//provide you with what is needed.  
